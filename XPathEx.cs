@@ -1,4 +1,4 @@
-﻿// (c) 2011 http://madebits.com
+﻿// (c) 2011 
 
 using System;
 using System.Collections.Generic;
